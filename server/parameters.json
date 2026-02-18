@@ -1,0 +1,22 @@
+[{
+  "name": "satSpeed",
+  "label": "Saturation Speed",
+  "type": "Number",
+  "value": 11,
+  "min": 1,
+  "max": 255
+}, {
+  "name": "brightDepthSpeed",
+  "label": "Bright Depth Speed",
+  "type": "Number",
+  "value": 43,
+  "min": 1,
+  "max": 255
+}, {
+  "name": "msmultiplierSpeed",
+  "label": "msmultiplier Speed",
+  "type": "Number",
+  "value": 18,
+  "min": 1,
+  "max": 255
+}]
