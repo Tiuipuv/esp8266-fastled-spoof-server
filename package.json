@@ -1,7 +1,7 @@
 {
-  "name": "babeltester",
+  "name": "esp8266-spoof-server",
   "version": "1.0.0",
-  "description": "A babel test project",
+  "description": "A server for simulating the ESP8266's API for testing and development purposes.",
   "main": "server/main.js",
   "type": "module",
   "private": true,
