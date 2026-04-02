@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.1] - 2026-01-04
+## [1.0.2] - 2026-04-01
+
+### Changed
+ - fixed security issues in `package-lock.json`
+
+## [1.0.1] - 2026-04-01
 
 ### Added
  - Server startup shows local ip

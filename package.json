@@ -1,6 +1,6 @@
 {
   "name": "esp8266-spoof-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A server for simulating the ESP8266's API for testing and development purposes.",
   "main": "server/main.js",
   "type": "module",
